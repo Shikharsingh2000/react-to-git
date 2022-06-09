@@ -4,8 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      react-to-git
-      more commit
+      Hello World
     </div>
   );
 }
